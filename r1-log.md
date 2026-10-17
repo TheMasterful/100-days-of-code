@@ -15,3 +15,9 @@ https://gist.github.com/TheMasterful/0073aef634b8b877f81a44a8bf6fd7d1
 Continued to work on my SwiftUI app. Spent most of my time building a C project, with the idea from BroCode's C tutorial. Specifically, I tried to recreate the shopping project, except I do not look at the tutorial and instead try to replicate his project on my own. I also worked on my pygame MineSweeper project.
 
 https://gist.github.com/TheMasterful/267f61a162441f313c62f03226fd2a3a
+
+### Day 3 (10/16)
+
+Continued to work on my testimonial cards. Also somewhat worked on the titanic competition on Kaggle, and started a web app project using python and Django (with a help of a tutorial since I have never used Django before)
+
+https://gist.github.com/TheMasterful/aecdc5e2835ce9af1a3bd9e9c49ecbbf

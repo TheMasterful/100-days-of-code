@@ -21,3 +21,9 @@ https://gist.github.com/TheMasterful/267f61a162441f313c62f03226fd2a3a
 Continued to work on my testimonial cards. Also somewhat worked on the titanic competition on Kaggle, and started a web app project using python and Django (with a help of a tutorial since I have never used Django before)
 
 https://gist.github.com/TheMasterful/aecdc5e2835ce9af1a3bd9e9c49ecbbf
+
+### Day 4 (10/16)
+
+Worked on a project while stimulating hackathon conditions (basically try to finish the project in 24 hours). Worked on a website that predicts future prices of common goods using machine learning. Today was mainly about setting things up using Django (which I am new at) as well as finding and using a dataset on Kaggle.
+
+https://gist.github.com/TheMasterful/ed69c628dcb37b3a2d441550058882d4

@@ -27,3 +27,9 @@ https://gist.github.com/TheMasterful/aecdc5e2835ce9af1a3bd9e9c49ecbbf
 Worked on a project while stimulating hackathon conditions (basically try to finish the project in 24 hours). Worked on a website that predicts future prices of common goods using machine learning. Today was mainly about setting things up using Django (which I am new at) as well as finding and using a dataset on Kaggle.
 
 https://gist.github.com/TheMasterful/ed69c628dcb37b3a2d441550058882d4
+
+### Day 5 (10/17)
+
+Continued to work on said project. Didn't finish by 24 hours. Will resume next weekend.
+
+https://gist.github.com/TheMasterful/5bd17cb90dc53250a59dd2d1251225db

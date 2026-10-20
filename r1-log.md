@@ -33,3 +33,9 @@ https://gist.github.com/TheMasterful/ed69c628dcb37b3a2d441550058882d4
 Continued to work on said project. Didn't finish by 24 hours. Will resume next weekend.
 
 https://gist.github.com/TheMasterful/5bd17cb90dc53250a59dd2d1251225db
+
+### Day 6 (10/18)
+
+Continued to work on the web app unit conversion project that uses Django. Managed to create a model and a template.
+
+https://gist.github.com/TheMasterful/d220e447de8e329dc2d706ce44bd0b97

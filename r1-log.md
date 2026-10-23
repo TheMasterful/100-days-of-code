@@ -22,20 +22,26 @@ Continued to work on my testimonial cards. Also somewhat worked on the titanic c
 
 https://gist.github.com/TheMasterful/aecdc5e2835ce9af1a3bd9e9c49ecbbf
 
-### Day 4 (10/16)
+### Day 4 (10/17)
 
 Worked on a project while stimulating hackathon conditions (basically try to finish the project in 24 hours). Worked on a website that predicts future prices of common goods using machine learning. Today was mainly about setting things up using Django (which I am new at) as well as finding and using a dataset on Kaggle.
 
 https://gist.github.com/TheMasterful/ed69c628dcb37b3a2d441550058882d4
 
-### Day 5 (10/17)
+### Day 5 (10/18)
 
 Continued to work on said project. Didn't finish by 24 hours. Will resume next weekend.
 
 https://gist.github.com/TheMasterful/5bd17cb90dc53250a59dd2d1251225db
 
-### Day 6 (10/18)
+### Day 6 (10/19)
 
 Continued to work on the web app unit conversion project that uses Django. Managed to create a model and a template.
 
 https://gist.github.com/TheMasterful/d220e447de8e329dc2d706ce44bd0b97
+
+### Day 7 (10/21)
+
+Continued to work on the unit conversion project. Added the units and currently working the actual conversion logic.
+
+https://gist.github.com/TheMasterful/70a52814466cb0c972c09f483f03d193

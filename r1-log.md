@@ -46,8 +46,14 @@ Continued to work on the unit conversion project. Added the units and currently 
 
 https://gist.github.com/TheMasterful/70a52814466cb0c972c09f483f03d193
 
-### Day 8 (10/21)
+### Day 8 (10/23)
 
 Generated predictions for titanic competition on Kaggle. First prediction used RandomForestClassifier, while the second one used XGBClassifier. Surprisingly, the second prediction got a worse score than the first one, even though the second prediction had lower cross validation scores. Also somewhat worked on the minesweeper project (using pygame) and made a compound interest project using C (the idea is from the C tutorial from BroCode on YouTube, but I attempted to build it myself without looking at his solution).
 
 https://gist.github.com/TheMasterful/c2e2350c975976433f27e3c38182605d
+
+### Day 9 (10/24)
+
+Continued to work on the price predictor that wasn't finished. Mainly focused on the machine learning from Kaggle.
+
+https://gist.github.com/TheMasterful/ddda6a9c57a222e425f8248033f54d2a

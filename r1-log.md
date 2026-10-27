@@ -57,3 +57,15 @@ https://gist.github.com/TheMasterful/c2e2350c975976433f27e3c38182605d
 Continued to work on the price predictor that wasn't finished. Mainly focused on the machine learning from Kaggle.
 
 https://gist.github.com/TheMasterful/ddda6a9c57a222e425f8248033f54d2a
+
+### Day 10 (10/25)
+
+Continued to work on the price predictor. Will resume next weekend.
+
+https://gist.github.com/TheMasterful/88f37301051ccfaa5048b596e39d06ec
+
+### Day 11 (10/26)
+
+Worked a little bit on the SwiftUI app, but focused mainly on the testimonial cards
+
+https://gist.github.com/TheMasterful/4b5ee9f47e4fee82f8662c223b36ebf8

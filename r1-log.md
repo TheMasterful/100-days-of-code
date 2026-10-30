@@ -69,3 +69,9 @@ https://gist.github.com/TheMasterful/88f37301051ccfaa5048b596e39d06ec
 Worked a little bit on the SwiftUI app, but focused mainly on the testimonial cards
 
 https://gist.github.com/TheMasterful/4b5ee9f47e4fee82f8662c223b36ebf8
+
+### Day 12 (10/28)
+
+Worked on the testimonial cards. Almost done.
+
+https://gist.github.com/TheMasterful/f6f2699c02ed78b713764eb62b4e20b5

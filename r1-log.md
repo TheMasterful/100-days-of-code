@@ -75,3 +75,9 @@ https://gist.github.com/TheMasterful/4b5ee9f47e4fee82f8662c223b36ebf8
 Worked on the testimonial cards. Almost done.
 
 https://gist.github.com/TheMasterful/f6f2699c02ed78b713764eb62b4e20b5
+
+### Day 13 (10/30)
+
+Continued work on the unit converter. Realized that a model was not necessary because the program was not meant store anything long term, unlike other situations where models would be useful. Because of this, relocated the model code from models.py to forms.py. Also worked on the logic behind the unit converter, focusing on the lengths.
+
+https://gist.github.com/TheMasterful/ce9fdc7a03afef156e0ffbd265bae732

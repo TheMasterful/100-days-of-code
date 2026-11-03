@@ -81,3 +81,9 @@ https://gist.github.com/TheMasterful/f6f2699c02ed78b713764eb62b4e20b5
 Continued work on the unit converter. Realized that a model was not necessary because the program was not meant store anything long term, unlike other situations where models would be useful. Because of this, relocated the model code from models.py to forms.py. Also worked on the logic behind the unit converter, focusing on the lengths.
 
 https://gist.github.com/TheMasterful/ce9fdc7a03afef156e0ffbd265bae732
+
+### Day 14 (11/01)
+
+Continued to work on the price predictor. Mainly focused on the machine learning aspect of the price predictor, trying to get the RandomizedSearchCV to work and update all of the XGBRegressor models as necessary according to the RandomizedSearchCV recommendations. Also somewhat worked on a rock paper scissors game that you can play with the computer.
+
+https://gist.github.com/TheMasterful/6e1c5979ba736bd34a4729a0a7557256

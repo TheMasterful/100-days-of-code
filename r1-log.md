@@ -87,3 +87,9 @@ https://gist.github.com/TheMasterful/ce9fdc7a03afef156e0ffbd265bae732
 Continued to work on the price predictor. Mainly focused on the machine learning aspect of the price predictor, trying to get the RandomizedSearchCV to work and update all of the XGBRegressor models as necessary according to the RandomizedSearchCV recommendations. Also somewhat worked on a rock paper scissors game that you can play with the computer.
 
 https://gist.github.com/TheMasterful/6e1c5979ba736bd34a4729a0a7557256
+
+### Day 15 (11/03)
+
+Continued to work on the unit converter. The webpage managed to load after a couple bug fixes. Did some bug fixing for the length converter. Plan to add two more converters (weight and temperature).
+
+https://gist.github.com/TheMasterful/a626e0e8babc4bedf95feea233dba942

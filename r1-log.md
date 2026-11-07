@@ -93,3 +93,9 @@ https://gist.github.com/TheMasterful/6e1c5979ba736bd34a4729a0a7557256
 Continued to work on the unit converter. The webpage managed to load after a couple bug fixes. Did some bug fixing for the length converter. Plan to add two more converters (weight and temperature).
 
 https://gist.github.com/TheMasterful/a626e0e8babc4bedf95feea233dba942
+
+### Day 16 (11/05)
+
+Continued to work on the unit converter. Focused on the parent template and added two more webpages for the other conversions.
+
+https://gist.github.com/TheMasterful/6d3005995bef42c7197bec8abb8dbe45

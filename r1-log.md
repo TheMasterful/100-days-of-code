@@ -94,8 +94,15 @@ Continued to work on the unit converter. The webpage managed to load after a cou
 
 https://gist.github.com/TheMasterful/a626e0e8babc4bedf95feea233dba942
 
+
 ### Day 16 (11/05)
 
 Continued to work on the unit converter. Focused on the parent template and added two more webpages for the other conversions.
 
 https://gist.github.com/TheMasterful/6d3005995bef42c7197bec8abb8dbe45
+
+### Day 17 (11/07)
+
+Continued to work on the price predictor (specifically the machine learning).
+
+https://gist.github.com/TheMasterful/9022e2b0e43cb707925069102074cfc4

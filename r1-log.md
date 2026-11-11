@@ -106,3 +106,11 @@ https://gist.github.com/TheMasterful/6d3005995bef42c7197bec8abb8dbe45
 Continued to work on the price predictor (specifically the machine learning).
 
 https://gist.github.com/TheMasterful/9022e2b0e43cb707925069102074cfc4
+
+### Day 18 (11/09)
+
+Continued to work on the unit converter and the testimonial cards.
+
+https://gist.github.com/TheMasterful/38fa9df6237bc1f50423643f9d9bb6f6
+
+

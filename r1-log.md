@@ -113,4 +113,10 @@ Continued to work on the unit converter and the testimonial cards.
 
 https://gist.github.com/TheMasterful/38fa9df6237bc1f50423643f9d9bb6f6
 
+### Day 19 (11/11)
+
+Somewhat worked on the price predictors, but mainly focused on the testimonial cards.
+
+https://gist.github.com/TheMasterful/8513c56ebf05542f466c908acb512a17
+
 

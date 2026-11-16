@@ -124,3 +124,15 @@ https://gist.github.com/TheMasterful/8513c56ebf05542f466c908acb512a17
 Worked a little on the unit converter project, but mainly focused on the testimonial cards (almost done with this project).
 
 https://gist.github.com/TheMasterful/6fa0936261f96d63cf102b1edfb5ac7b
+
+### Day 21 (11/14)
+
+Worked on the price predictor. Also focused on the rock paper scissors game in C.
+
+https://gist.github.com/TheMasterful/f7e048bbbfcb3dbfb67084cf13146e33
+
+### Day 22 (11/15)
+
+Worked somewhat on the price predictor, but mainly focused on the testimonial cards since it is close to being finished.
+
+https://gist.github.com/TheMasterful/58b91281567b9a1b17b69d8ecba196c1

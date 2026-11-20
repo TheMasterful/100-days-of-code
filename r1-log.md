@@ -143,3 +143,9 @@ https://gist.github.com/TheMasterful/58b91281567b9a1b17b69d8ecba196c1
 Worked on the testimonial cards.
 
 https://gist.github.com/TheMasterful/d91d24048fd60f823ef9b9e345df44f5
+
+### Day 24 (11/19)
+
+Worked on the unit converter and got started on a project on EarSketch.
+
+https://gist.github.com/TheMasterful/1afc6e0f2d78ecb3f4ab89ea473bf99d

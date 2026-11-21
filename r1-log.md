@@ -149,3 +149,9 @@ https://gist.github.com/TheMasterful/d91d24048fd60f823ef9b9e345df44f5
 Worked on the unit converter and got started on a project on EarSketch.
 
 https://gist.github.com/TheMasterful/1afc6e0f2d78ecb3f4ab89ea473bf99d
+
+### Day 25 (11/20)
+
+Worked on the Spaceship Titanic competition on Kaggle. Testing different models and see which one is more accurate.
+
+https://gist.github.com/TheMasterful/f6304a9fb08afe987c9943b8eadb09e9

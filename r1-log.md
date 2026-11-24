@@ -155,3 +155,9 @@ https://gist.github.com/TheMasterful/1afc6e0f2d78ecb3f4ab89ea473bf99d
 Worked on the Spaceship Titanic competition on Kaggle. Testing different models and see which one is more accurate.
 
 https://gist.github.com/TheMasterful/f6304a9fb08afe987c9943b8eadb09e9
+
+### Day 26 (11/22)
+
+Worked on the price predictor. Tried GridSearchCV but it took a lot of time.
+
+https://gist.github.com/TheMasterful/b709a5486084cdf15df4b8669e8dca09

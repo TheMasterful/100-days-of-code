@@ -161,3 +161,9 @@ https://gist.github.com/TheMasterful/f6304a9fb08afe987c9943b8eadb09e9
 Worked on the price predictor. Tried GridSearchCV but it took a lot of time.
 
 https://gist.github.com/TheMasterful/b709a5486084cdf15df4b8669e8dca09
+
+### Day 27 (11/23)
+
+Worked on the unit converter. Specifically, worked on adding the weights and temperatures.
+
+https://gist.github.com/TheMasterful/a2864deacbe84dec5bfe5fd5dd17ec25

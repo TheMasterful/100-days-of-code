@@ -167,3 +167,9 @@ https://gist.github.com/TheMasterful/b709a5486084cdf15df4b8669e8dca09
 Worked on the unit converter. Specifically, worked on adding the weights and temperatures.
 
 https://gist.github.com/TheMasterful/a2864deacbe84dec5bfe5fd5dd17ec25
+
+### Day 28 (11/25)
+
+Worked on the Spaceship Titanic project, though there was a problem trying to get the cross validation scores. Also worked on testimonial cards, focusing on centering the images.
+
+https://gist.github.com/TheMasterful/23b1ff16673ed2373155b9b081e8fe8f
